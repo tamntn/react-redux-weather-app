@@ -1,6 +1,6 @@
 # React-Redux Weather App
 
-![demo][./demo.gif]
+![demo](./demo.gif)
 
 To run the app, clone this repository and run:
 ```
